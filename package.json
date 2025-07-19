@@ -1,0 +1,21 @@
+{
+  "name": "telegram-quiz-bot",
+  "version": "1.0.0",
+  "description": "Bot kuis Telegram dengan verifikasi nama dan database file JSON lokal.",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js",
+    "dev": "nodemon bot.js"
+  },
+  "dependencies": {
+    "axios": "^1.7.2",
+    "dotenv": "^16.4.5",
+    "node-cron": "^3.0.3",
+    "telegraf": "^4.16.3"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.4"
+  },
+  "author": "",
+  "license": "ISC"
+}

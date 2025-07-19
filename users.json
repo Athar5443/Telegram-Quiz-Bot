@@ -1,0 +1,15 @@
+{
+  "user001": {
+    "name": "Jhon Doe",
+    "user_id": null,
+    "total_score": 0,
+    "questions_answered": 0,
+    "rounds_completed": 0,
+    "current_round_score": 0,
+    "current_round_answered": 0,
+    "answeredQuestions": [],
+    "question_counter": 0,
+    "rating": 1,
+    "is_active": true
+  }
+}

@@ -1,0 +1,1965 @@
+[
+  {
+    "nomor": "INF01",
+    "soal": "Perangkat keras komputer yang berfungsi sebagai 'otak' dari komputer dan bertugas memproses instruksi adalah...",
+    "pilihan": {
+      "a": "RAM (Random Access Memory)",
+      "b": "Hard Disk Drive (HDD)",
+      "c": "CPU (Central Processing Unit)",
+      "d": "Motherboard"
+    },
+    "jawaban_benar": "c",
+    "penjelasan": "CPU adalah komponen utama yang menjalankan sebagian besar pemrosesan di dalam komputer.",
+    "tingkat_kesulitan": 1
+  },
+  {
+    "nomor": "INF02",
+    "soal": "Sistem operasi seperti Windows, macOS, dan Linux termasuk dalam kategori perangkat lunak...",
+    "pilihan": {
+      "a": "Aplikasi",
+      "b": "Sistem",
+      "c": "Pemrograman",
+      "d": "Utilitas"
+    },
+    "jawaban_benar": "b",
+    "penjelasan": "Perangkat lunak sistem bertugas mengelola sumber daya perangkat keras dan perangkat lunak komputer.",
+    "tingkat_kesulitan": 1
+  },
+  {
+    "nomor": "INF03",
+    "soal": "Dalam berpikir komputasional, proses memecah masalah yang kompleks menjadi bagian-bagian yang lebih kecil disebut...",
+    "pilihan": {
+      "a": "Abstraksi",
+      "b": "Pengenalan Pola",
+      "c": "Algoritma",
+      "d": "Dekomposisi"
+    },
+    "jawaban_benar": "d",
+    "penjelasan": "Dekomposisi membantu menyederhanakan masalah kompleks agar lebih mudah dianalisis dan diselesaikan.",
+    "tingkat_kesulitan": 2
+  },
+  {
+    "nomor": "INF04",
+    "soal": "Perangkat yang digunakan untuk menghubungkan beberapa komputer dalam satu jaringan lokal (LAN) adalah...",
+    "pilihan": {
+      "a": "Modem",
+      "b": "Router",
+      "c": "Switch",
+      "d": "Repeater"
+    },
+    "jawaban_benar": "c",
+    "penjelasan": "Switch berfungsi sebagai pusat koneksi untuk semua perangkat dalam jaringan area lokal (LAN).",
+    "tingkat_kesulitan": 2
+  },
+  {
+    "nomor": "INF05",
+    "soal": "Fungsi pada Microsoft Excel yang digunakan untuk mencari nilai rata-rata dari sekumpulan data adalah...",
+    "pilihan": {
+      "a": "SUM",
+      "b": "MAX",
+      "c": "AVERAGE",
+      "d": "COUNT"
+    },
+    "jawaban_benar": "c",
+    "penjelasan": "Fungsi =AVERAGE() menghitung rata-rata (rerata aritmatika) dari argumennya.",
+    "tingkat_kesulitan": 1
+  },
+  {
+    "nomor": "INF06",
+    "soal": "Urutan langkah-langkah logis yang disusun secara sistematis untuk menyelesaikan suatu masalah disebut...",
+    "pilihan": {
+      "a": "Program",
+      "b": "Algoritma",
+      "c": "Flowchart",
+      "d": "Pseudocode"
+    },
+    "jawaban_benar": "b",
+    "penjelasan": "Algoritma adalah fondasi dari semua program komputer dan proses pemecahan masalah.",
+    "tingkat_kesulitan": 2
+  },
+  {
+    "nomor": "INF07",
+    "soal": "Proses mengubah teks asli menjadi format yang tidak dapat dibaca untuk alasan keamanan disebut...",
+    "pilihan": {
+      "a": "Dekripsi",
+      "b": "Kompresi",
+      "c": "Enkripsi",
+      "d": "Konversi"
+    },
+    "jawaban_benar": "c",
+    "penjelasan": "Enkripsi adalah metode fundamental dalam keamanan siber untuk melindungi data.",
+    "tingkat_kesulitan": 3
+  },
+  {
+    "nomor": "INF08",
+    "soal": "File yang tersimpan pada Microsoft Office Word versi 2007 ke atas umumnya berekstensi...",
+    "pilihan": {
+      "a": ".doc",
+      "b": ".txt",
+      "c": ".docx",
+      "d": ".pdf"
+    },
+    "jawaban_benar": "c",
+    "penjelasan": "Ekstensi .docx diperkenalkan pada Word 2007, berbasis XML dan menawarkan ukuran file yang lebih kecil.",
+    "tingkat_kesulitan": 1
+  },
+  {
+    "nomor": "INF09",
+    "soal": "Upaya penipuan untuk mendapatkan informasi sensitif seperti kata sandi dan detail kartu kredit dengan menyamar sebagai entitas terpercaya disebut...",
+    "pilihan": {
+      "a": "Malware",
+      "b": "Phishing",
+      "c": "Spam",
+      "d": "Virus"
+    },
+    "jawaban_benar": "b",
+    "penjelasan": "Phishing sering dilakukan melalui email atau situs web palsu yang meniru tampilan aslinya untuk mengelabui korban.",
+    "tingkat_kesulitan": 3
+  },
+  {
+    "nomor": "INF10",
+    "soal": "Perangkat lunak yang dapat diunduh dan digunakan secara gratis tanpa batasan waktu, namun kode sumbernya tidak dibuka untuk umum, disebut...",
+    "pilihan": {
+      "a": "Shareware",
+      "b": "Open Source",
+      "c": "Freeware",
+      "d": "Adware"
+    },
+    "jawaban_benar": "c",
+    "penjelasan": "Freeware (perangkat gratis) berbeda dari open source, di mana kode sumbernya dapat dimodifikasi oleh siapa saja.",
+    "tingkat_kesulitan": 2
+  },
+  {
+    "nomor": "INF11",
+    "soal": "Manakah di antara berikut ini yang merupakan contoh perangkat input?",
+    "pilihan": {
+      "a": "Monitor",
+      "b": "Printer",
+      "c": "Speaker",
+      "d": "Scanner"
+    },
+    "jawaban_benar": "d",
+    "penjelasan": "Scanner (pemindai) berfungsi untuk memasukkan data dari dokumen fisik ke dalam komputer, menjadikannya perangkat input.",
+    "tingkat_kesulitan": 1
+  },
+  {
+    "nomor": "INF12",
+    "soal": "Jejak data yang kamu tinggalkan saat menggunakan internet dikenal sebagai...",
+    "pilihan": {
+      "a": "Jejak Karbon",
+      "b": "Jejak Digital",
+      "c": "Cache",
+      "d": "Cookie"
+    },
+    "jawaban_benar": "b",
+    "penjelasan": "Jejak digital mencakup situs web yang dikunjungi, email yang dikirim, dan informasi yang dikirimkan secara online.",
+    "tingkat_kesulitan": 2
+  },
+  {
+    "nomor": "INF13",
+    "soal": "Dalam spreadsheet, referensi sel '$A$1' adalah contoh dari...",
+    "pilihan": {
+      "a": "Referensi Relatif",
+      "b": "Referensi Campuran",
+      "c": "Referensi Absolut",
+      "d": "Referensi Eksternal"
+    },
+    "jawaban_benar": "c",
+    "penjelasan": "Referensi absolut ($A$1) tidak akan berubah saat formula disalin ke sel lain, berbeda dengan referensi relatif (A1).",
+    "tingkat_kesulitan": 3
+  },
+  {
+    "nomor": "INF14",
+    "soal": "Apa fungsi dari 'CC' (Carbon Copy) dalam mengirim email?",
+    "pilihan": {
+      "a": "Mengirim salinan email ke penerima utama",
+      "b": "Menyembunyikan alamat email penerima lain",
+      "c": "Mengirim salinan email ke penerima sekunder secara transparan",
+      "d": "Memblokir balasan dari penerima"
+    },
+    "jawaban_benar": "c",
+    "penjelasan": "CC digunakan untuk mengirimkan salinan email kepada orang lain selain penerima utama, dan semua penerima dapat melihat alamat email satu sama lain.",
+    "tingkat_kesulitan": 2
+  },
+  {
+    "nomor": "INF15",
+    "soal": "Jenis format file gambar yang mendukung latar belakang transparan adalah...",
+    "pilihan": {
+      "a": "JPEG",
+      "b": "BMP",
+      "c": "PNG",
+      "d": "GIF"
+    },
+    "jawaban_benar": "c",
+    "penjelasan": "PNG (Portable Network Graphics) adalah format yang ideal untuk logo atau ikon karena kemampuannya mendukung transparansi.",
+    "tingkat_kesulitan": 2
+  },
+  {
+    "nomor": "INF16",
+    "soal": "Di antara pengaruh Tower BTS terhadap sinyal ponsel di ruang terbuka adalah...",
+    "pilihan": {
+      "a": "Makin dekat ponsel dengan BTS, sinyal bertambah kuat.",
+      "b": "Makin dekat ponsel dengan BTS, sinyal bertambah lemah.",
+      "c": "Makin jauh ponsel dari BTS, sinyal bertambah kuat.",
+      "d": "Sinyal ponsel melemah ketika di bawah tower BTS"
+    },
+    "jawaban_benar": "a",
+    "penjelasan": "Secara umum, kekuatan sinyal berbanding terbalik dengan kuadrat jarak. Semakin dekat dengan pemancar (BTS), sinyal akan semakin kuat.",
+    "tingkat_kesulitan": 1
+  },
+  {
+    "nomor": "INF17",
+    "soal": "File berukuran kecil yang berisi serangkaian karakter yang dikirim ke komputer kita saat mengunjungi sebuah situs web disebut...",
+    "pilihan": {
+      "a": "Website",
+      "b": "Browse data",
+      "c": "Cookies",
+      "d": "Search Engine"
+    },
+    "jawaban_benar": "c",
+    "penjelasan": "Cookies digunakan oleh situs web untuk menyimpan informasi sesi, preferensi pengguna, dan data pelacakan di browser.",
+    "tingkat_kesulitan": 2
+  },
+  {
+    "nomor": "INF18",
+    "soal": "Contoh kejahatan Phishing dilakukan dengan menjebak seorang pengguna internet untuk memberikan...",
+    "pilihan": {
+      "a": "Uang dan barang berharga",
+      "b": "Username dan password",
+      "c": "Kartu kredit fisik",
+      "d": "Informasi darurat"
+    },
+    "jawaban_benar": "b",
+    "penjelasan": "Tujuan utama phishing adalah mencuri kredensial login (username dan password) untuk mengakses akun korban secara ilegal.",
+    "tingkat_kesulitan": 2
+  },
+  {
+    "nomor": "INF19",
+    "soal": "Infrastruktur telekomunikasi yang memfasilitasi komunikasi nirkabel antara perangkat komunikasi dan jaringan komputer disebut dengan istilah...",
+    "pilihan": {
+      "a": "Nomor seluler",
+      "b": "Pemancar",
+      "c": "Router",
+      "d": "Base Transceiver Station"
+    },
+    "jawaban_benar": "d",
+    "penjelasan": "Base Transceiver Station (BTS) adalah istilah teknis untuk menara seluler yang menghubungkan ponsel ke jaringan.",
+    "tingkat_kesulitan": 3
+  },
+  {
+    "nomor": "INF20",
+    "soal": "Berikut ini beberapa faktor yang memengaruhi kekuatan sinyal ponsel, kecuali...",
+    "pilihan": {
+      "a": "Jarak ponsel dengan BTS",
+      "b": "Kondisi Cuaca",
+      "c": "Jumlah pengguna di sekitar BTS",
+      "d": "Jumlah pulsa kartu ponsel"
+    },
+    "jawaban_benar": "d",
+    "penjelasan": "Jumlah pulsa tidak memiliki pengaruh teknis terhadap kekuatan penerimaan sinyal seluler.",
+    "tingkat_kesulitan": 1
+  },
+  {
+    "nomor": "INF21",
+    "soal": "Proses menentukan jalur yang dilalui sebuah paket data yang dikirim antar-dua buah perangkat disebut dengan istilah...",
+    "pilihan": {
+      "a": "Koneksi",
+      "b": "Transfer data",
+      "c": "Routing",
+      "d": "Cloud computing"
+    },
+    "jawaban_benar": "c",
+    "penjelasan": "Routing adalah fungsi inti dari perangkat router, yang bertugas mengarahkan lalu lintas data di dalam jaringan.",
+    "tingkat_kesulitan": 2
+  },
+  {
+    "nomor": "INF22",
+    "soal": "Sebuah rancangan yang melibatkan dua atau lebih komputer yang terhubung satu sama lain dan digunakan untuk berbagi data, serta dibangun dengan mengombinasikan hardware-software adalah....",
+    "pilihan": {
+      "a": "Internet",
+      "b": "Jaringan komputer",
+      "c": "Teknologi informasi",
+      "d": "Transfer data"
+    },
+    "jawaban_benar": "b",
+    "penjelasan": "Ini adalah definisi dasar dari jaringan komputer, yang memungkinkan perangkat untuk berkomunikasi dan berbagi sumber daya.",
+    "tingkat_kesulitan": 1
+  },
+  {
+    "nomor": "INF23",
+    "soal": "Fungsi dalam MS Excel yang dipakai saat range data disusun secara vertikal adalah...",
+    "pilihan": {
+      "a": "Lookup",
+      "b": "Hlookup",
+      "c": "Vlookup",
+      "d": "Index"
+    },
+    "jawaban_benar": "c",
+    "penjelasan": "VLOOKUP (Vertical Lookup) dirancang khusus untuk mencari data dalam tabel yang disusun secara kolom atau vertikal.",
+    "tingkat_kesulitan": 2
+  },
+  {
+    "nomor": "INF24",
+    "soal": "Fungsi dalam MS Excel yang berguna untuk mengacu suatu lokasi data di suatu range adalah...",
+    "pilihan": {
+      "a": "Reference",
+      "b": "Lookup",
+      "c": "Hlookup",
+      "d": "Index"
+    },
+    "jawaban_benar": "a",
+    "penjelasan": "Reference (Referensi) adalah istilah umum untuk menunjuk ke sel atau rentang sel tertentu dalam spreadsheet.",
+    "tingkat_kesulitan": 3
+  },
+  {
+    "nomor": "INF25",
+    "soal": "Jenis chart yang berfungsi untuk membandingkan nilai beberapa kelompok data dan visualisasinya menggunakan bar/batang vertikal adalah...",
+    "pilihan": {
+      "a": "Line Chart",
+      "b": "Grafik Pai",
+      "c": "Grafik batang",
+      "d": "Grafik kolom"
+    },
+    "jawaban_benar": "d",
+    "penjelasan": "Grafik kolom (Column Chart) sangat efektif untuk perbandingan kategori data secara visual dengan batang vertikal.",
+    "tingkat_kesulitan": 1
+  },
+  {
+    "nomor": "INF26",
+    "soal": "Suatu notasi yang berguna mendeskripsikan program komputer secara tepat, di mana sintaksis dan semantiknya didefinisikan dengan ketat adalah...",
+    "pilihan": {
+      "a": "Debunking",
+      "b": "Computational Thinking",
+      "c": "Bahasa pemrograman",
+      "d": "Algoritma"
+    },
+    "jawaban_benar": "c",
+    "penjelasan": "Bahasa pemrograman memiliki aturan (sintaksis) dan makna (semantik) yang ketat agar dapat dipahami oleh komputer.",
+    "tingkat_kesulitan": 2
+  },
+  {
+    "nomor": "INF27",
+    "soal": "Dalam konsep pemrograman, nama tertentu yang dipakai buat menyimpan suatu nilai, serta nilai yang disimpan dapat diubah dengan blok merupakan pengertian dari...",
+    "pilihan": {
+      "a": "Input",
+      "b": "Variabel",
+      "c": "Control",
+      "d": "Scratch"
+    },
+    "jawaban_benar": "b",
+    "penjelasan": "Variabel bertindak sebagai wadah atau label untuk menyimpan data yang dapat berubah selama eksekusi program.",
+    "tingkat_kesulitan": 2
+  },
+  {
+    "nomor": "INF28",
+    "soal": "Berikut ini merupakan sejumlah jenis klasifikasi media sosial, kecuali...",
+    "pilihan": {
+      "a": "Microblog",
+      "b": "Photo sharing",
+      "c": "Social hacking",
+      "d": "Social Gaming"
+    },
+    "jawaban_benar": "c",
+    "penjelasan": "Social hacking (rekayasa sosial) adalah metode manipulasi untuk mendapatkan informasi, bukan jenis media sosial.",
+    "tingkat_kesulitan": 2
+  },
+  {
+    "nomor": "INF29",
+    "soal": "Di bawah ini adalah contoh media sosial jenis social network, kecuali...",
+    "pilihan": {
+      "a": "TikTok",
+      "b": "Facebook",
+      "c": "Instagram",
+      "d": "Friendster"
+    },
+    "jawaban_benar": "a",
+    "penjelasan": "TikTok lebih diklasifikasikan sebagai platform 'video sharing', sementara Facebook, Instagram, dan Friendster adalah 'social network' klasik.",
+    "tingkat_kesulitan": 2
+  },
+  {
+    "nomor": "INF30",
+    "soal": "Agar bisa mengembangkan sikap kritis dan tidak terjebak informasi palsu, salah satu caranya ialah saat baca sebuah berita/info di internet kita tidak...",
+    "pilihan": {
+      "a": "Mengecek kebenarannya",
+      "b": "Emosional",
+      "c": "Memeriksa sumber informasi",
+      "d": "Meragukan kebenarannya"
+    },
+    "jawaban_benar": "b",
+    "penjelasan": "Menjadi emosional dapat menghalangi pemikiran kritis dan membuat seseorang lebih mudah percaya pada informasi palsu atau hoaks.",
+    "tingkat_kesulitan": 1
+  },
+  {
+    "nomor": "INF31",
+    "soal": "Memeriksa kebenaran sebuah berita atau informasi di internet dapat dilakukan melalui situs pengecekan fakta yang terpercaya, seperti...",
+    "pilihan": {
+      "a": "Facebook.com",
+      "b": "Google.com",
+      "c": "Kemdikbudristek.go.id",
+      "d": "turnbackhoax.id"
+    },
+    "jawaban_benar": "d",
+    "penjelasan": "Turnbackhoax.id adalah salah satu inisiatif pengecekan fakta (fact-checking) terkemuka di Indonesia.",
+    "tingkat_kesulitan": 2
+  },
+  {
+    "nomor": "INF32",
+    "soal": "Contoh tools untuk memeriksa dari mana gambar berasal dan apakah isinya telah diubah/diedit ialah...",
+    "pilihan": {
+      "a": "Chat GPT",
+      "b": "Google Image Search",
+      "c": "Perplexity",
+      "d": "Yandex"
+    },
+    "jawaban_benar": "b",
+    "penjelasan": "Google Image Search memiliki fitur 'reverse image search' yang memungkinkan pengguna mengunggah gambar untuk menemukan sumber aslinya.",
+    "tingkat_kesulitan": 1
+  },
+  {
+    "nomor": "INF33",
+    "soal": "Sebuah pernyataan/berita/informasi yang terkesan salah tetapi sebenarnya ditujukan untuk lelucon disebut....",
+    "pilihan": {
+      "a": "Hoaks",
+      "b": "Satire",
+      "c": "Misinformasi",
+      "d": "Disinformasi"
+    },
+    "jawaban_benar": "b",
+    "penjelasan": "Satire menggunakan humor, ironi, atau berlebihan untuk mengkritik, tetapi sering disalahartikan sebagai berita sungguhan.",
+    "tingkat_kesulitan": 2
+  },
+  {
+    "nomor": "INF34",
+    "soal": "Berikut ini tujuan pelaku Cyberbullying, kecuali...",
+    "pilihan": {
+      "a": "Menakuti korban",
+      "b": "Membuat korban marah",
+      "c": "Mempermalukan korban",
+      "d": "Menasehati korban"
+    },
+    "jawaban_benar": "d",
+    "penjelasan": "Cyberbullying memiliki niat jahat untuk merendahkan atau menyakiti korban, bukan untuk menasihati secara konstruktif.",
+    "tingkat_kesulitan": 1
+  },
+  {
+    "nomor": "INF35",
+    "soal": "Cyberbullying bisa memicu efek lebih parah daripada perundungan di dunia nyata. Salah satu perbedaan antara Cyberbullying dengan perundungan di dunia nyata adalah...",
+    "pilihan": {
+      "a": "Dilakukan oleh pelaku yang jahat",
+      "b": "Dilakukan oleh pembenci korban",
+      "c": "Perundung bisa sulit diidentifikasi",
+      "d": "Menimbulkan penderitaan pada korban"
+    },
+    "jawaban_benar": "c",
+    "penjelasan": "Sifat anonim atau samaran di internet membuat pelaku cyberbullying seringkali lebih sulit untuk diidentifikasi.",
+    "tingkat_kesulitan": 2
+  },
+  {
+    "nomor": "INF36",
+    "soal": "Aktivitas mengirimkan pesan kepada orang lain menggunakan surat elektronik secara terus menerus dan jumlah yang banyak tanpa dikehendaki oleh penerimanya disebut....",
+    "pilihan": {
+      "a": "Malware",
+      "b": "Carding",
+      "c": "Spamming",
+      "d": "Phising"
+    },
+    "jawaban_benar": "c",
+    "penjelasan": "Spamming adalah tindakan mengirim pesan massal yang tidak diinginkan, umumnya untuk tujuan komersial atau penipuan.",
+    "tingkat_kesulitan": 2
+  },
+  {
+    "nomor": "INF37",
+    "soal": "Perkembangan TIK pada mulanya ditandai dengan adanya surat kabar, radio dan televisi yang digunakan untuk menyampaikan informasi atau berita yang bersifat....",
+    "pilihan": {
+      "a": "Sepakat",
+      "b": "Sependapat",
+      "c": "Sejarah",
+      "d": "Searah"
+    },
+    "jawaban_benar": "d",
+    "penjelasan": "Media tradisional bersifat searah (one-to-many), di mana audiens hanya bisa menerima informasi tanpa interaksi langsung.",
+    "tingkat_kesulitan": 2
+  },
+  {
+    "nomor": "INF38",
+    "soal": "Bentuk usaha untuk menimbulkan kerusakan, kehancuran data, dan gangguan jaringan komputer disebut....",
+    "pilihan": {
+      "a": "Sabotase",
+      "b": "Carding",
+      "c": "Phishing",
+      "d": "Hacking"
+    },
+    "jawaban_benar": "d",
+    "penjelasan": "Hacking dalam konteks negatif merujuk pada akses ilegal ke sistem komputer untuk tujuan jahat seperti perusakan data.",
+    "tingkat_kesulitan": 2
+  },
+  {
+    "nomor": "INF39",
+    "soal": "Muatan ilegal yang berupa data atau informasi tidak benar atau tidak sesuai dengan norma yang dimasukkan oleh pelaku kejahatan siber disebut dengan istilah....",
+    "pilihan": {
+      "a": "Defacing",
+      "b": "Illegal Contents",
+      "c": "Sabotase",
+      "d": "Unauthorized access"
+    },
+    "jawaban_benar": "b",
+    "penjelasan": "Illegal Contents adalah kategori kejahatan siber yang melibatkan penyebaran konten ilegal seperti hoaks, pornografi, atau ujaran kebencian.",
+    "tingkat_kesulitan": 3
+  },
+  {
+    "nomor": "INF40",
+    "soal": "Tindakan kriminal yang memanfaatkan internet untuk menjalankan aksinya dan sering disebut dengan kejahatan dunia maya adalah....",
+    "pilihan": {
+      "a": "Spamming",
+      "b": "Illegal Contents",
+      "c": "Phishing",
+      "d": "Cyber crime"
+    },
+    "jawaban_benar": "d",
+    "penjelasan": "Cybercrime adalah istilah payung untuk semua tindak kejahatan yang dilakukan dengan menggunakan teknologi komputer dan internet.",
+    "tingkat_kesulitan": 1
+  },
+  {
+    "nomor": "INF41",
+    "soal": "Berikut ini merupakan salah satu kejahatan dunia maya adalah....",
+    "pilihan": {
+      "a": "Quick Count",
+      "b": "Cyber Squatting",
+      "c": "Online",
+      "d": "E-Learning"
+    },
+    "jawaban_benar": "b",
+    "penjelasan": "Cyber squatting adalah tindakan mendaftarkan nama domain yang identik dengan merek dagang orang lain dengan niat buruk.",
+    "tingkat_kesulitan": 3
+  },
+  {
+    "nomor": "INF42",
+    "soal": "'Perkembangan TIK membuat proses belajar dapat dilakukan secara online sehingga peserta didik tidak harus selalu menerima penyampaian materi dengan tatap muka.' Dari pernyataan tersebut, diketahui bahwa dampak positif dari perkembangan TIK juga terjadi di bidang....",
+    "pilihan": {
+      "a": "Pendidikan",
+      "b": "Ekonomi",
+      "c": "Sosial",
+      "d": "Politik"
+    },
+    "jawaban_benar": "a",
+    "penjelasan": "Pernyataan tersebut secara eksplisit menjelaskan dampak positif TIK dalam memfasilitasi pembelajaran jarak jauh di sektor pendidikan.",
+    "tingkat_kesulitan": 1
+  },
+  {
+    "nomor": "INF43",
+    "soal": "Kejahatan yang dilakukan dengan cara mengecoh korban sehingga memberikan data ke dalam situs yang telah disiapkan oleh pelaku cyber crime disebut....",
+    "pilihan": {
+      "a": "Phishing",
+      "b": "Spamming",
+      "c": "Carding",
+      "d": "Defacing"
+    },
+    "jawaban_benar": "a",
+    "penjelasan": "Ini adalah definisi lain dari Phishing, yang fokus pada penipuan melalui situs palsu untuk mencuri data.",
+    "tingkat_kesulitan": 2
+  },
+  {
+    "nomor": "INF44",
+    "soal": "Kejahatan terkait penggunaan kartu kredit milik orang lain untuk kepentingan pribadi atau kelompok pelaku cyber crime disebut....",
+    "pilihan": {
+      "a": "Phishing",
+      "b": "Spamming",
+      "c": "Carding",
+      "d": "Defacing"
+    },
+    "jawaban_benar": "c",
+    "penjelasan": "Carding adalah istilah spesifik untuk kejahatan penyalahgunaan kartu kredit secara online.",
+    "tingkat_kesulitan": 2
+  },
+  {
+    "nomor": "INF45",
+    "soal": "Aktivitas mengubah tampilan situs web tertentu dengan memanfaatkan kelemahan sistem keamanan website yang jadi target sehingga merugikan pemiliknya disebut....",
+    "pilihan": {
+      "a": "Phishing",
+      "b": "Spamming",
+      "c": "Carding",
+      "d": "Defacing"
+    },
+    "jawaban_benar": "d",
+    "penjelasan": "Defacing adalah tindakan vandalisme digital di mana peretas mengubah tampilan visual sebuah situs web.",
+    "tingkat_kesulitan": 2
+  },
+  {
+    "nomor": "INF46",
+    "soal": "Berikut ini yang bukan termasuk bentuk media sosial adalah....",
+    "pilihan": {
+      "a": "Blog",
+      "b": "My Space",
+      "c": "Linkedin",
+      "d": "Wifi"
+    },
+    "jawaban_benar": "d",
+    "penjelasan": "Wifi adalah teknologi jaringan nirkabel, bukan platform media sosial untuk berinteraksi antar pengguna.",
+    "tingkat_kesulitan": 1
+  },
+  {
+    "nomor": "INF47",
+    "soal": "Media berbasis internet yang memungkinkan para penggunanya bisa dengan mudah berpartisipasi, berbagi, dan membuat konten untuk blog, jejaring sosial, forum, dan dunia virtual, adalah....",
+    "pilihan": {
+      "a": "Media online",
+      "b": "Media internet",
+      "c": "Media komunikasi",
+      "d": "Media Sosial"
+    },
+    "jawaban_benar": "d",
+    "penjelasan": "Ini adalah definisi komprehensif dari Media Sosial, yang menekankan pada partisipasi pengguna dan pembuatan konten (user-generated content).",
+    "tingkat_kesulitan": 1
+  },
+  {
+    "nomor": "INF48",
+    "soal": "Contoh pemanfaatan teknologi dalam bidang ekonomi, khususnya perbankan, adalah tersedianya mesin anjungan tunai mandiri (ATM) di banyak tempat. Keuntungan ataupun manfaat penggunaan mesin ATM adalah....",
+    "pilihan": {
+      "a": "Hanya dapat digunakan pada waktu tertentu",
+      "b": "Bisa digunakan untuk mengetahui informasi sehari-hari",
+      "c": "Bisa dipakai menarik uang tunai dan mentransfer uang tanpa harus ke bank",
+      "d": "Digunakan untuk memasukkan KTP ke dalam mesin"
+    },
+    "jawaban_benar": "c",
+    "penjelasan": "Manfaat utama ATM adalah memberikan kemudahan transaksi perbankan seperti tarik tunai dan transfer kapan saja tanpa terbatas jam operasional bank.",
+    "tingkat_kesulitan": 1
+  },
+  {
+    "nomor": "INF49",
+    "soal": "Software atau perangkat lunak yang bebas digunakan adalah software berkategori....",
+    "pilihan": {
+      "a": "Clouse source",
+      "b": "Clouse mind",
+      "c": "Open source",
+      "d": "Pasca bayar"
+    },
+    "jawaban_benar": "c",
+    "penjelasan": "Open Source software tidak hanya gratis digunakan, tetapi kode programnya juga terbuka untuk dipelajari dan dimodifikasi oleh siapa saja.",
+    "tingkat_kesulitan": 2
+  },
+  {
+    "nomor": "INF50",
+    "soal": "Berikut ini yang termasuk manfaat copyright adalah....",
+    "pilihan": {
+      "a": "Menjamin hak pembuat karya",
+      "b": "Menjamin kewajiban pembuat karya",
+      "c": "Memberikan sanksi kepada pembuat karya",
+      "d": "Menerapkan kode etik dalam pembuatan karya"
+    },
+    "jawaban_benar": "a",
+    "penjelasan": "Copyright (Hak Cipta) secara hukum melindungi hak eksklusif pembuat karya atas distribusi dan reproduksi karya mereka.",
+    "tingkat_kesulitan": 2
+  },
+  {
+    "nomor": "INF51",
+    "soal": "Metode untuk menyelesaikan persoalan dengan menerapkan logika serta teknik ilmu komputer (informatika) merupakan pengertian dari...",
+    "pilihan": {
+      "a": "Komputasional",
+      "b": "Computational Thinking",
+      "c": "Teknologi Informasi",
+      "d": "Industri 4.0"
+    },
+    "jawaban_benar": "b",
+    "penjelasan": "Computational Thinking (Berpikir Komputasional) adalah proses berpikir untuk merumuskan masalah dan solusinya dalam bentuk yang bisa dieksekusi komputer.",
+    "tingkat_kesulitan": 2
+  },
+  {
+    "nomor": "INF52",
+    "soal": "Pendekatan yang memecahkan masalah besar dan kompleks menjadi lebih sederhana atau kecil sehingga lebih mudah dikelola dan dipahami disebut.....",
+    "pilihan": {
+      "a": "Dekomposisi",
+      "b": "Komputasional",
+      "c": "Abstraksi",
+      "d": "Algoritma"
+    },
+    "jawaban_benar": "a",
+    "penjelasan": "Dekomposisi adalah salah satu pilar utama dalam berpikir komputasional, yaitu memecah masalah menjadi sub-masalah yang lebih kecil.",
+    "tingkat_kesulitan": 1
+  },
+  {
+    "nomor": "INF53",
+    "soal": "Dalam berpikir komputasional, kita dituntut mencari kesamaan masalah, bikin solusi menjadi sederhana, dan persoalan mudah dipecahkan. Pernyataan ini merupakan definisi atau penjelasan dari teknik....",
+    "pilihan": {
+      "a": "Abstraksi",
+      "b": "Algoritma",
+      "c": "Pengenalan Pola",
+      "d": "Dekomposisi"
+    },
+    "jawaban_benar": "c",
+    "penjelasan": "Pengenalan Pola (Pattern Recognition) adalah kemampuan untuk melihat kesamaan atau tren dalam data untuk menyederhanakan solusi.",
+    "tingkat_kesulitan": 2
+  },
+  {
+    "nomor": "INF54",
+    "soal": "Teknik menemukan informasi penting dan yang tidak relevan sehingga menjadi kunci dalam berpikir komputasional disebut....",
+    "pilihan": {
+      "a": "Analisis komputasional",
+      "b": "Dekomposisi",
+      "c": "Abstraksi",
+      "d": "Komputerisasi"
+    },
+    "jawaban_benar": "c",
+    "penjelasan": "Abstraksi adalah proses menyaring dan fokus pada informasi yang relevan sambil mengabaikan detail yang tidak perlu.",
+    "tingkat_kesulitan": 2
+  },
+  {
+    "nomor": "INF55",
+    "soal": "Proses mengembangkan solusi berupa langkah-langkah yang harus dipenuhi secara berurutan untuk memecahkan sebuah permasalahan merupakan definisi....",
+    "pilihan": {
+      "a": "Dekomposisi",
+      "b": "Berpikir Komputasional",
+      "c": "Analisis Pola",
+      "d": "Algoritma"
+    },
+    "jawaban_benar": "d",
+    "penjelasan": "Algoritma adalah pilar terakhir dari berpikir komputasional, yaitu merancang serangkaian instruksi langkah-demi-langkah untuk menyelesaikan masalah.",
+    "tingkat_kesulitan": 1
+  },
+  {
+    "nomor": "INF56",
+    "soal": "Dalam sebuah flowchart (diagram alir), simbol jajar genjang digunakan untuk melambangkan...",
+    "pilihan": {
+      "a": "Proses",
+      "b": "Input / Output",
+      "c": "Keputusan (Decision)",
+      "d": "Mulai / Selesai"
+    },
+    "jawaban_benar": "b",
+    "penjelasan": "Simbol jajar genjang secara standar dalam flowchart digunakan untuk menandakan proses penerimaan input atau penampilan output data.",
+    "tingkat_kesulitan": 2
+  },
+  {
+    "nomor": "INF57",
+    "soal": "Perangkat atau perangkat lunak yang berfungsi sebagai benteng pertahanan untuk melindungi jaringan komputer dari akses yang tidak sah adalah...",
+    "pilihan": {
+      "a": "Antivirus",
+      "b": "Firewall",
+      "c": "Switch",
+      "d": "Router"
+    },
+    "jawaban_benar": "b",
+    "penjelasan": "Firewall bertugas memonitor dan mengontrol lalu lintas jaringan yang masuk dan keluar berdasarkan aturan keamanan yang telah ditentukan.",
+    "tingkat_kesulitan": 2
+  },
+  {
+    "nomor": "INF58",
+    "soal": "Dua jenis orientasi halaman pada aplikasi pengolah kata seperti Microsoft Word adalah...",
+    "pilihan": {
+      "a": "Header dan Footer",
+      "b": "Margin dan Gutter",
+      "c": "Portrait dan Landscape",
+      "d": "Bold dan Italic"
+    },
+    "jawaban_benar": "c",
+    "penjelasan": "Portrait adalah orientasi tegak (vertikal), sedangkan Landscape adalah orientasi mendatar (horizontal).",
+    "tingkat_kesulitan": 1
+  },
+  {
+    "nomor": "INF59",
+    "soal": "Cikal bakal internet dikenal dengan nama ARPANET, yang dikembangkan oleh departemen pertahanan negara...",
+    "pilihan": {
+      "a": "Inggris",
+      "b": "Rusia",
+      "c": "Jerman",
+      "d": "Amerika Serikat"
+    },
+    "jawaban_benar": "d",
+    "penjelasan": "ARPANET (Advanced Research Projects Agency Network) adalah proyek dari Departemen Pertahanan Amerika Serikat pada tahun 1969.",
+    "tingkat_kesulitan": 2
+  },
+  {
+    "nomor": "INF60",
+    "soal": "Dalam Microsoft Excel, ikon 'Σ' (Sigma) digunakan untuk fungsi...",
+    "pilihan": {
+      "a": "Menghitung Rata-rata (Average)",
+      "b": "Menjumlahkan secara otomatis (AutoSum)",
+      "c": "Mencari nilai tertinggi (Max)",
+      "d": "Menyisipkan rumus (Insert Function)"
+    },
+    "jawaban_benar": "b",
+    "penjelasan": "Ikon Sigma (Σ) adalah shortcut untuk fungsi AutoSum, yang secara otomatis menjumlahkan data pada sel-sel yang berdekatan.",
+    "tingkat_kesulitan": 1
+  },
+  {
+    "nomor": "INF61",
+    "soal": "Sistem bilangan yang hanya menggunakan dua digit, yaitu 0 dan 1, yang menjadi dasar semua sistem komputer adalah sistem bilangan...",
+    "pilihan": {
+      "a": "Desimal",
+      "b": "Heksadesimal",
+      "c": "Oktal",
+      "d": "Biner"
+    },
+    "jawaban_benar": "d",
+    "penjelasan": "Sistem biner adalah fondasi dari semua komputasi digital, di mana 0 dan 1 merepresentasikan kondisi mati atau hidup dari sebuah sirkuit listrik.",
+    "tingkat_kesulitan": 2
+  },
+  {
+    "nomor": "INF62",
+    "soal": "Apa sebutan untuk memori komputer yang hanya bisa dibaca dan isinya telah disediakan oleh pabrik pembuat motherboard?",
+    "pilihan": {
+      "a": "RAM",
+      "b": "ROM",
+      "c": "Cache",
+      "d": "SSD"
+    },
+    "jawaban_benar": "b",
+    "penjelasan": "ROM (Read-Only Memory) berisi firmware atau perangkat lunak penting yang dibutuhkan komputer untuk memulai (booting) dan tidak bisa diubah oleh pengguna.",
+    "tingkat_kesulitan": 2
+  },
+  {
+    "nomor": "INF63",
+    "soal": "Siapakah yang dianggap sebagai 'Bapak Komputer' karena konsep mesin analitisnya?",
+    "pilihan": {
+      "a": "Alan Turing",
+      "b": "Charles Babbage",
+      "c": "Bill Gates",
+      "d": "Tim Berners-Lee"
+    },
+    "jawaban_benar": "b",
+    "penjelasan": "Charles Babbage adalah seorang matematikawan Inggris yang pertama kali mengemukakan ide tentang komputer yang dapat diprogram pada abad ke-19.",
+    "tingkat_kesulitan": 3
+  },
+  {
+    "nomor": "INF64",
+    "soal": "Dalam Microsoft Word, fitur untuk membuat daftar isi secara otomatis disebut...",
+    "pilihan": {
+      "a": "Index",
+      "b": "Table of Contents",
+      "c": "Bibliography",
+      "d": "Footnote"
+    },
+    "jawaban_benar": "b",
+    "penjelasan": "Table of Contents secara otomatis membuat daftar judul dan subjudul beserta nomor halamannya berdasarkan heading style yang digunakan.",
+    "tingkat_kesulitan": 2
+  },
+  {
+    "nomor": "INF65",
+    "soal": "Topologi jaringan di mana semua komputer terhubung ke sebuah kabel pusat (backbone) disebut topologi...",
+    "pilihan": {
+      "a": "Star",
+      "b": "Ring",
+      "c": "Bus",
+      "d": "Mesh"
+    },
+    "jawaban_benar": "c",
+    "penjelasan": "Topologi Bus menggunakan satu kabel utama sebagai jalur data bersama untuk semua perangkat dalam jaringan.",
+    "tingkat_kesulitan": 2
+  },
+  {
+    "nomor": "INF66",
+    "soal": "Kombinasi tombol keyboard untuk melakukan 'undo' atau membatalkan aksi terakhir pada sebagian besar aplikasi adalah...",
+    "pilihan": {
+      "a": "Ctrl + C",
+      "b": "Ctrl + V",
+      "c": "Ctrl + X",
+      "d": "Ctrl + Z"
+    },
+    "jawaban_benar": "d",
+    "penjelasan": "Ctrl + Z adalah pintasan universal untuk membatalkan perintah sebelumnya.",
+    "tingkat_kesulitan": 1
+  },
+  {
+    "nomor": "INF67",
+    "soal": "Sistem yang menerjemahkan nama domain (seperti www.google.com) menjadi alamat IP (seperti 172.217.167.110) adalah...",
+    "pilihan": {
+      "a": "HTTP",
+      "b": "DNS",
+      "c": "FTP",
+      "d": "URL"
+    },
+    "jawaban_benar": "b",
+    "penjelasan": "DNS (Domain Name System) berfungsi seperti buku telepon untuk internet, memudahkan pengguna mengakses situs web tanpa harus menghafal alamat IP.",
+    "tingkat_kesulitan": 3
+  },
+  {
+    "nomor": "INF68",
+    "soal": "Setiap warna dalam gambar digital direpresentasikan oleh kombinasi tiga warna primer, yaitu...",
+    "pilihan": {
+      "a": "Merah, Kuning, Biru",
+      "b": "Cyan, Magenta, Kuning",
+      "c": "Merah, Hijau, Biru",
+      "d": "Hitam, Putih, Abu-abu"
+    },
+    "jawaban_benar": "c",
+    "penjelasan": "Model warna RGB (Red, Green, Blue) adalah model warna aditif yang digunakan oleh layar monitor dan perangkat digital lainnya untuk menciptakan berbagai warna.",
+    "tingkat_kesulitan": 2
+  },
+  {
+    "nomor": "INF69",
+    "soal": "Lisensi perangkat lunak yang memungkinkan pengguna untuk memodifikasi dan mendistribusikan ulang kode sumbernya secara bebas disebut...",
+    "pilihan": {
+      "a": "Proprietary",
+      "b": "Freeware",
+      "c": "Shareware",
+      "d": "Open Source"
+    },
+    "jawaban_benar": "d",
+    "penjelasan": "Lisensi Open Source (sumber terbuka) memberikan kebebasan kepada pengguna untuk mempelajari, mengubah, dan menyebarkan perangkat lunak.",
+    "tingkat_kesulitan": 2
+  },
+  {
+    "nomor": "INF70",
+    "soal": "Dalam Microsoft PowerPoint, tampilan yang digunakan untuk menyajikan presentasi kepada audiens disebut...",
+    "pilihan": {
+      "a": "Normal View",
+      "b": "Slide Sorter View",
+      "c": "Notes Page View",
+      "d": "Slide Show View"
+    },
+    "jawaban_benar": "d",
+    "penjelasan": "Slide Show View menampilkan slide satu per satu dalam layar penuh, sesuai dengan bagaimana audiens akan melihatnya.",
+    "tingkat_kesulitan": 1
+  },
+  {
+    "nomor": "INF71",
+    "soal": "Untuk menjaga keamanan akun, praktik mengganti kata sandi secara berkala dan menggunakan kombinasi karakter yang kompleks sangat disarankan. Tindakan ini disebut...",
+    "pilihan": {
+      "a": "Manajemen Data",
+      "b": "Higiene Kata Sandi (Password Hygiene)",
+      "c": "Enkripsi",
+      "d": "Autentikasi"
+    },
+    "jawaban_benar": "b",
+    "penjelasan": "Higiene kata sandi adalah serangkaian praktik baik untuk menjaga keamanan kata sandi dan akun dari akses tidak sah.",
+    "tingkat_kesulitan": 2
+  },
+  {
+    "nomor": "INF72",
+    "soal": "Perangkat lunak berbahaya yang dirancang untuk menyusup atau merusak sistem komputer tanpa sepengetahuan pemilik disebut...",
+    "pilihan": {
+      "a": "Firmware",
+      "b": "Adware",
+      "c": "Malware",
+      "d": "Software"
+    },
+    "jawaban_benar": "c",
+    "penjelasan": "Malware (Malicious Software) adalah istilah umum untuk perangkat lunak jahat, termasuk virus, worm, trojan, dan ransomware.",
+    "tingkat_kesulitan": 1
+  },
+  {
+    "nomor": "INF73",
+    "soal": "Siapakah penemu World Wide Web (WWW)?",
+    "pilihan": {
+      "a": "Steve Jobs",
+      "b": "Vint Cerf",
+      "c": "Tim Berners-Lee",
+      "d": "Larry Page"
+    },
+    "jawaban_benar": "c",
+    "penjelasan": "Tim Berners-Lee, seorang ilmuwan Inggris, menemukan World Wide Web pada tahun 1989 saat bekerja di CERN.",
+    "tingkat_kesulitan": 3
+  },
+  {
+    "nomor": "INF74",
+    "soal": "Satuan terkecil dari data dalam komputasi adalah...",
+    "pilihan": {
+      "a": "Byte",
+      "b": "Bit",
+      "c": "Kilobyte",
+      "d": "Megabyte"
+    },
+    "jawaban_benar": "b",
+    "penjelasan": "Bit (Binary Digit) adalah unit dasar informasi dalam komputasi, yang dapat memiliki nilai 0 atau 1.",
+    "tingkat_kesulitan": 1
+  },
+  {
+    "nomor": "INF75",
+    "soal": "Dalam Excel, jika kamu ingin formula =A1+B1 tidak berubah saat disalin ke sel lain, kamu harus menuliskannya sebagai...",
+    "pilihan": {
+      "a": "=A$1+B$1",
+      "b": "=$A1+$B1",
+      "c": "=$A$1+$B$1",
+      "d": "=A1+B1"
+    },
+    "jawaban_benar": "c",
+    "penjelasan": "Menggunakan tanda dolar ($) sebelum kolom dan baris ($A$1) menciptakan referensi absolut yang mengunci formula ke sel tertentu.",
+    "tingkat_kesulitan": 3
+  },
+  {
+    "nomor": "INF76",
+    "soal": "Membuat diagram visual untuk merepresentasikan langkah-langkah dalam suatu algoritma disebut...",
+    "pilihan": {
+      "a": "Pseudocode",
+      "b": "Coding",
+      "c": "Flowcharting",
+      "d": "Debugging"
+    },
+    "jawaban_benar": "c",
+    "penjelasan": "Flowcharting (membuat diagram alir) menggunakan simbol-simbol standar untuk menggambarkan alur logika dari sebuah proses atau program.",
+    "tingkat_kesulitan": 1
+  },
+  {
+    "nomor": "INF77",
+    "soal": "Proses mencari dan memperbaiki kesalahan (bug) dalam sebuah program komputer disebut...",
+    "pilihan": {
+      "a": "Compiling",
+      "b": "Executing",
+      "c": "Debugging",
+      "d": "Deploying"
+    },
+    "jawaban_benar": "c",
+    "penjelasan": "Debugging adalah bagian penting dari siklus pengembangan perangkat lunak untuk memastikan program berjalan dengan benar.",
+    "tingkat_kesulitan": 2
+  },
+  {
+    "nomor": "INF78",
+    "soal": "Komponen fisik komputer yang dapat disentuh, seperti mouse, keyboard, dan monitor, secara kolektif disebut...",
+    "pilihan": {
+      "a": "Software",
+      "b": "Hardware",
+      "c": "Firmware",
+      "d": "Brainware"
+    },
+    "jawaban_benar": "b",
+    "penjelasan": "Hardware (Perangkat Keras) adalah semua bagian fisik dari sistem komputer.",
+    "tingkat_kesulitan": 1
+  },
+  {
+    "nomor": "INF79",
+    "soal": "Fitur di browser web yang menyimpan salinan halaman, gambar, dan konten lain untuk mempercepat waktu muat pada kunjungan berikutnya adalah...",
+    "pilihan": {
+      "a": "History",
+      "b": "Bookmark",
+      "c": "Cache",
+      "d": "Extension"
+    },
+    "jawaban_benar": "c",
+    "penjelasan": "Cache browser menyimpan sementara file dari situs web di komputermu sehingga tidak perlu mengunduhnya lagi setiap kali berkunjung.",
+    "tingkat_kesulitan": 2
+  },
+  {
+    "nomor": "INF80",
+    "soal": "Aturan atau etiket tidak tertulis untuk berperilaku sopan dan pantas saat berkomunikasi secara online disebut...",
+    "pilihan": {
+      "a": "Netiquette",
+      "b": "Cyberlaw",
+      "c": "Copyright",
+      "d": "Digital Footprint"
+    },
+    "jawaban_benar": "a",
+    "penjelasan": "Netiquette (Netiket) adalah panduan untuk interaksi yang hormat dan sesuai di internet, seperti menghindari penggunaan huruf kapital semua (yang dianggap berteriak).",
+    "tingkat_kesulitan": 2
+  },
+  {
+    "nomor": "INF81",
+    "soal": "Dalam Excel, fungsi IF digunakan untuk melakukan...",
+    "pilihan": {
+      "a": "Penjumlahan bersyarat",
+      "b": "Pengecekan logika",
+      "c": "Pencarian data",
+      "d": "Menghitung jumlah sel"
+    },
+    "jawaban_benar": "b",
+    "penjelasan": "Fungsi IF memeriksa apakah suatu kondisi benar atau salah, dan mengembalikan nilai yang berbeda tergantung pada hasilnya.",
+    "tingkat_kesulitan": 2
+  },
+  {
+    "nomor": "INF82",
+    "soal": "Alamat unik yang mengidentifikasi setiap perangkat di jaringan internet adalah...",
+    "pilihan": {
+      "a": "URL",
+      "b": "Alamat MAC",
+      "c": "Alamat IP",
+      "d": "Nama Domain"
+    },
+    "jawaban_benar": "c",
+    "penjelasan": "Alamat IP (Internet Protocol) diperlukan agar paket data dapat dikirim ke perangkat yang benar di seluruh internet.",
+    "tingkat_kesulitan": 2
+  },
+  {
+    "nomor": "INF83",
+    "soal": "Perangkat lunak yang dirancang untuk membantu pengguna membuat presentasi visual dengan slide adalah...",
+    "pilihan": {
+      "a": "Spreadsheet (misal: Excel)",
+      "b": "Word Processor (misal: Word)",
+      "c": "Presentation Software (misal: PowerPoint)",
+      "d": "Database (misal: Access)"
+    },
+    "jawaban_benar": "c",
+    "penjelasan": "Perangkat lunak presentasi seperti PowerPoint, Google Slides, atau Keynote dirancang khusus untuk membuat dan menyajikan slide.",
+    "tingkat_kesulitan": 1
+  },
+  {
+    "nomor": "INF84",
+    "soal": "Dalam pengolah kata, fungsi untuk mengatur jarak antar baris dalam sebuah paragraf disebut...",
+    "pilihan": {
+      "a": "Alignment",
+      "b": "Indentation",
+      "c": "Line Spacing",
+      "d": "Font Size"
+    },
+    "jawaban_benar": "c",
+    "penjelasan": "Line Spacing (Spasi Baris) mengontrol seberapa banyak ruang vertikal antara baris teks, misalnya spasi tunggal, 1.5, atau ganda.",
+    "tingkat_kesulitan": 1
+  },
+  {
+    "nomor": "INF85",
+    "soal": "Sebuah program komputer yang dapat mereplikasi dirinya sendiri dan menyebar ke komputer lain, seringkali dengan niat merusak, adalah...",
+    "pilihan": {
+      "a": "Cookie",
+      "b": "Virus Komputer",
+      "c": "Firewall",
+      "d": "Cache"
+    },
+    "jawaban_benar": "b",
+    "penjelasan": "Seperti virus biologis, virus komputer memerlukan program inang untuk menyebar dan menginfeksi sistem lain.",
+    "tingkat_kesulitan": 1
+  },
+  {
+    "nomor": "INF86",
+    "soal": "Menyimpan file dari internet ke komputermu disebut proses...",
+    "pilihan": {
+      "a": "Uploading (Mengunggah)",
+      "b": "Streaming",
+      "c": "Browse (Menjelajah)",
+      "d": "Downloading (Mengunduh)"
+    },
+    "jawaban_benar": "d",
+    "penjelasan": "Downloading adalah proses mentransfer data dari server jauh (internet) ke perangkat lokal (komputer, ponsel).",
+    "tingkat_kesulitan": 1
+  },
+  {
+    "nomor": "INF87",
+    "soal": "Mengirim file dari komputermu ke server di internet disebut proses...",
+    "pilihan": {
+      "a": "Downloading (Mengunduh)",
+      "b": "Uploading (Mengunggah)",
+      "c": "Installing (Memasang)",
+      "d": "Deleting (Menghapus)"
+    },
+    "jawaban_benar": "b",
+    "penjelasan": "Uploading adalah kebalikan dari downloading, yaitu mentransfer data dari perangkat lokal ke server jauh.",
+    "tingkat_kesulitan": 1
+  },
+  {
+    "nomor": "INF88",
+    "soal": "Untuk membuat teks menjadi miring (italic) pada aplikasi pengolah kata, biasanya digunakan pintasan keyboard...",
+    "pilihan": {
+      "a": "Ctrl + B",
+      "b": "Ctrl + U",
+      "c": "Ctrl + I",
+      "d": "Ctrl + P"
+    },
+    "jawaban_benar": "c",
+    "penjelasan": "Ctrl + I adalah pintasan standar untuk memformat teks menjadi miring (italic).",
+    "tingkat_kesulitan": 1
+  },
+  {
+    "nomor": "INF89",
+    "soal": "Representasi visual dari data, seperti grafik batang atau diagram lingkaran, yang membantu dalam pemahaman data disebut...",
+    "pilihan": {
+      "a": "Formula",
+      "b": "Tabel",
+      "c": "Chart (Grafik)",
+      "d": "Filter"
+    },
+    "jawaban_benar": "c",
+    "penjelasan": "Chart (grafik) digunakan untuk memvisualisasikan data agar pola dan tren lebih mudah dilihat dan dipahami.",
+    "tingkat_kesulitan": 1
+  },
+  {
+    "nomor": "INF90",
+    "soal": "Hak hukum eksklusif yang diberikan kepada pencipta atas karya asli mereka, seperti musik, buku, atau perangkat lunak, disebut...",
+    "pilihan": {
+      "a": "Paten",
+      "b": "Merek Dagang",
+      "c": "Hak Cipta (Copyright)",
+      "d": "Lisensi"
+    },
+    "jawaban_benar": "c",
+    "penjelasan": "Hak cipta melindungi ekspresi ide dalam bentuk karya nyata, memberikan kontrol kepada pencipta atas penggunaan karya tersebut.",
+    "tingkat_kesulitan": 2
+  },
+  {
+    "nomor": "INF91",
+    "soal": "Kumpulan halaman web yang saling terhubung dan biasanya berada di bawah nama domain yang sama disebut...",
+    "pilihan": {
+      "a": "Homepage",
+      "b": "Website (Situs Web)",
+      "c": "Web Browser",
+      "d": "Server"
+    },
+    "jawaban_benar": "b",
+    "penjelasan": "Sebuah situs web (website) terdiri dari halaman utama (homepage) dan berbagai halaman internal lainnya yang dapat diakses melalui hyperlink.",
+    "tingkat_kesulitan": 1
+  },
+  {
+    "nomor": "INF92",
+    "soal": "Dalam presentasi, efek visual yang terjadi saat berpindah dari satu slide ke slide berikutnya disebut...",
+    "pilihan": {
+      "a": "Animasi (Animation)",
+      "b": "Transisi (Transition)",
+      "c": "Hyperlink",
+      "d": "Tema (Theme)"
+    },
+    "jawaban_benar": "b",
+    "penjelasan": "Transisi slide (contoh: fade, push, wipe) mengontrol bagaimana satu slide menghilang dan slide berikutnya muncul.",
+    "tingkat_kesulitan": 1
+  },
+  {
+    "nomor": "INF93",
+    "soal": "Efek visual yang diterapkan pada objek (seperti teks atau gambar) di dalam sebuah slide disebut...",
+    "pilihan": {
+      "a": "Animasi (Animation)",
+      "b": "Transisi (Transition)",
+      "c": "Desain (Design)",
+      "d": "Layout"
+    },
+    "jawaban_benar": "a",
+    "penjelasan": "Animasi (contoh: fly in, appear, fade out) mengontrol bagaimana elemen-elemen individual masuk, keluar, atau ditekankan di dalam slide.",
+    "tingkat_kesulitan": 1
+  },
+  {
+    "nomor": "INF94",
+    "soal": "Untuk memilih beberapa file atau folder yang tidak berurutan di Windows, kamu harus menahan tombol...",
+    "pilihan": {
+      "a": "Shift",
+      "b": "Alt",
+      "c": "Ctrl",
+      "d": "Tab"
+    },
+    "jawaban_benar": "c",
+    "penjelasan": "Menahan tombol Ctrl memungkinkan kamu untuk mengklik dan memilih item-item secara individual dan tidak berdekatan.",
+    "tingkat_kesulitan": 2
+  },
+  {
+    "nomor": "INF95",
+    "soal": "Fitur yang memungkinkan kolaborasi beberapa orang untuk mengerjakan satu dokumen secara bersamaan di waktu yang nyata disebut...",
+    "pilihan": {
+      "a": "Track Changes",
+      "b": "Real-time Collaboration",
+      "c": "Version History",
+      "d": "Commenting"
+    },
+    "jawaban_benar": "b",
+    "penjelasan": "Real-time collaboration, seperti yang ditemukan di Google Docs atau Microsoft 365, memungkinkan semua perubahan terlihat oleh semua kolaborator secara instan.",
+    "tingkat_kesulitan": 2
+  },
+  {
+    "nomor": "INF96",
+    "soal": "Standar untuk pengkodean karakter yang digunakan oleh hampir semua komputer saat ini untuk merepresentasikan teks dari berbagai bahasa adalah...",
+    "pilihan": {
+      "a": "ASCII",
+      "b": "Unicode",
+      "c": "Morse",
+      "d": "Binary"
+    },
+    "jawaban_benar": "b",
+    "penjelasan": "Unicode adalah standar universal yang menyediakan kode unik untuk setiap karakter, tidak peduli platform, program, atau bahasanya.",
+    "tingkat_kesulitan": 3
+  },
+  {
+    "nomor": "INF97",
+    "soal": "Bagian dari URL yang mengidentifikasi protokol yang digunakan, seperti 'http' atau 'https', disebut...",
+    "pilihan": {
+      "a": "Domain",
+      "b": "Path",
+      "c": "Scheme",
+      "d": "Top-Level Domain"
+    },
+    "jawaban_benar": "c",
+    "penjelasan": "Scheme (skema) memberitahu browser cara mengakses sumber daya, dengan 'https' (Secure HTTP) menjadi yang paling umum saat ini.",
+    "tingkat_kesulitan": 3
+  },
+  {
+    "nomor": "INF98",
+    "soal": "Dalam MS Word, fitur untuk melacak perubahan yang dibuat oleh editor pada sebuah dokumen disebut...",
+    "pilihan": {
+      "a": "Find and Replace",
+      "b": "Spell Check",
+      "c": "Track Changes",
+      "d": "Word Count"
+    },
+    "jawaban_benar": "c",
+    "penjelasan": "Track Changes (Lacak Perubahan) sangat berguna dalam kolaborasi, karena memungkinkan pemilik dokumen untuk melihat, menerima, atau menolak setiap suntingan.",
+    "tingkat_kesulitan": 2
+  },
+  {
+    "nomor": "INF99",
+    "soal": "Perangkat lunak yang antarmukanya dirancang agar mudah digunakan dan intuitif bagi pengguna disebut memiliki...",
+    "pilihan": {
+      "a": "Kinerja Tinggi",
+      "b": "Keamanan Kuat",
+      "c": "Antarmuka yang Ramah Pengguna (User-Friendly Interface)",
+      "d": "Kompatibilitas Luas"
+    },
+    "jawaban_benar": "c",
+    "penjelasan": "Antarmuka yang ramah pengguna (user-friendly) bertujuan agar pengguna dapat mencapai tujuannya dengan mudah dan efisien tanpa perlu pelatihan khusus.",
+    "tingkat_kesulitan": 1
+  },
+  {
+    "nomor": "INF100",
+    "soal": "Kumpulan instruksi yang memberitahu komputer apa yang harus dilakukan disebut...",
+    "pilihan": {
+      "a": "Data",
+      "b": "Perangkat Keras (Hardware)",
+      "c": "Program atau Perangkat Lunak (Software)",
+      "d": "Jaringan (Network)"
+    },
+    "jawaban_benar": "c",
+    "penjelasan": "Perangkat lunak (software) adalah sekumpulan program yang memberikan instruksi kepada perangkat keras (hardware) untuk menjalankan tugas tertentu.",
+    "tingkat_kesulitan": 1
+  },
+  {
+    "nomor": "INF101",
+    "soal": "Penyimpanan data menggunakan jaringan server jarak jauh yang dihosting di internet disebut...",
+    "pilihan": {
+      "a": "Local Storage",
+      "b": "Cloud Computing",
+      "c": "External Drive",
+      "d": "RAM"
+    },
+    "jawaban_benar": "b",
+    "penjelasan": "Cloud Computing (Komputasi Awan) memungkinkan pengguna menyimpan dan mengakses data dan program melalui internet, bukan di hard drive lokal.",
+    "tingkat_kesulitan": 2
+  },
+  {
+    "nomor": "INF102",
+    "soal": "Perangkat output yang menampilkan informasi visual dari komputer adalah...",
+    "pilihan": {
+      "a": "Keyboard",
+      "b": "Mouse",
+      "c": "Monitor",
+      "d": "Webcam"
+    },
+    "jawaban_benar": "c",
+    "penjelasan": "Monitor adalah perangkat output utama yang mengubah sinyal video dari komputer menjadi gambar yang dapat dilihat.",
+    "tingkat_kesulitan": 1
+  },
+  {
+    "nomor": "INF103",
+    "soal": "Pada Excel, fungsi COUNT digunakan untuk...",
+    "pilihan": {
+      "a": "Menjumlahkan nilai dalam sel",
+      "b": "Menghitung jumlah sel yang berisi angka",
+      "c": "Mencari nilai rata-rata",
+      "d": "Menghitung semua sel yang tidak kosong"
+    },
+    "jawaban_benar": "b",
+    "penjelasan": "Fungsi =COUNT() secara spesifik hanya menghitung sel-sel dalam rentang yang berisi nilai numerik.",
+    "tingkat_kesulitan": 2
+  },
+  {
+    "nomor": "INF104",
+    "soal": "Sebuah file teks kecil yang dibuat oleh situs web dan disimpan di komputermu untuk mengingat informasimu disebut...",
+    "pilihan": {
+      "a": "Cache",
+      "b": "Cookie",
+      "c": "Virus",
+      "d": "Spam"
+    },
+    "jawaban_benar": "b",
+    "penjelasan": "Cookie digunakan untuk berbagai tujuan, seperti menyimpan status login, preferensi situs, dan item di keranjang belanja.",
+    "tingkat_kesulitan": 2
+  },
+  {
+    "nomor": "INF105",
+    "soal": "Teknologi yang memungkinkan panggilan suara melalui koneksi internet alih-alih jalur telepon tradisional adalah...",
+    "pilihan": {
+      "a": "SMS",
+      "b": "MMS",
+      "c": "VoIP",
+      "d": "GPS"
+    },
+    "jawaban_benar": "c",
+    "penjelasan": "VoIP (Voice over Internet Protocol) adalah teknologi yang mendasari layanan panggilan seperti WhatsApp Call, Skype, dan Google Meet.",
+    "tingkat_kesulitan": 3
+  },
+  {
+    "nomor": "INF106",
+    "soal": "Mengatur teks agar rata di kedua sisi margin kiri dan kanan dalam pengolah kata disebut...",
+    "pilihan": {
+      "a": "Align Left (Rata Kiri)",
+      "b": "Align Right (Rata Kanan)",
+      "c": "Center (Tengah)",
+      "d": "Justify (Rata Kanan-Kiri)"
+    },
+    "jawaban_benar": "d",
+    "penjelasan": "Justify memberikan tampilan yang rapi dan formal pada blok teks dengan meratakan kedua sisi, sering digunakan di koran dan buku.",
+    "tingkat_kesulitan": 1
+  },
+  {
+    "nomor": "INF107",
+    "soal": "Papan sirkuit utama di dalam komputer yang menghubungkan semua komponen penting disebut...",
+    "pilihan": {
+      "a": "CPU",
+      "b": "RAM",
+      "c": "Hard Drive",
+      "d": "Motherboard"
+    },
+    "jawaban_benar": "d",
+    "penjelasan": "Motherboard (Papan Induk) bertindak sebagai 'tulang punggung' komputer, memungkinkan komunikasi antara CPU, RAM, penyimpanan, dan komponen lainnya.",
+    "tingkat_kesulitan": 2
+  },
+  {
+    "nomor": "INF108",
+    "soal": "1 Gigabyte (GB) kira-kira setara dengan...",
+    "pilihan": {
+      "a": "1000 Byte",
+      "b": "1000 Kilobyte (KB)",
+      "c": "1000 Megabyte (MB)",
+      "d": "1000 Terabyte (TB)"
+    },
+    "jawaban_benar": "c",
+    "penjelasan": "Urutan satuan penyimpanan data adalah Byte, Kilobyte, Megabyte, Gigabyte, Terabyte. Setiap tingkatan kira-kira 1000 kali lebih besar dari sebelumnya (secara teknis 1024).",
+    "tingkat_kesulitan": 1
+  },
+  {
+    "nomor": "INF109",
+    "soal": "Program yang digunakan untuk mengakses dan menampilkan halaman web di internet disebut...",
+    "pilihan": {
+      "a": "Sistem Operasi",
+      "b": "Web Browser (Peramban Web)",
+      "c": "Mesin Pencari",
+      "d": "Pengolah Kata"
+    },
+    "jawaban_benar": "b",
+    "penjelasan": "Contoh peramban web (web browser) yang populer adalah Google Chrome, Mozilla Firefox, dan Microsoft Edge.",
+    "tingkat_kesulitan": 1
+  },
+  {
+    "nomor": "INF110",
+    "soal": "Situs web yang dirancang untuk membantu pengguna menemukan informasi di internet, seperti Google atau Bing, disebut...",
+    "pilihan": {
+      "a": "Media Sosial",
+      "b": "Platform E-commerce",
+      "c": "Mesin Pencari (Search Engine)",
+      "d": "Blog"
+    },
+    "jawaban_benar": "c",
+    "penjelasan": "Mesin pencari mengindeks miliaran halaman web dan menggunakan algoritma untuk menyajikan hasil yang paling relevan dengan kueri pengguna.",
+    "tingkat_kesulitan": 1
+  },
+  {
+    "nomor": "INF111",
+    "soal": "Resolusi layar diukur dalam satuan...",
+    "pilihan": {
+      "a": "Gigahertz (GHz)",
+      "b": "Dots Per Inch (DPI)",
+      "c": "Piksel (Pixels)",
+      "d": "Megabits per second (Mbps)"
+    },
+    "jawaban_benar": "c",
+    "penjelasan": "Resolusi, seperti 1920x1080 piksel, menunjukkan jumlah titik individu (piksel) yang membentuk gambar di layar secara horizontal dan vertikal.",
+    "tingkat_kesulitan": 2
+  },
+  {
+    "nomor": "INF112",
+    "soal": "Apa kepanjangan dari 'PDF'?",
+    "pilihan": {
+      "a": "Printable Document Format",
+      "b": "Portable Document Format",
+      "c": "Personal Data File",
+      "d": "Public Domain File"
+    },
+    "jawaban_benar": "b",
+    "penjelasan": "Portable Document Format (PDF) dibuat oleh Adobe untuk menyajikan dokumen, termasuk pemformatan teks dan gambar, secara konsisten di berbagai platform.",
+    "tingkat_kesulitan": 2
+  },
+  {
+    "nomor": "INF113",
+    "soal": "Ketika kamu memotong (cut) sebuah file, apa yang terjadi pada file tersebut?",
+    "pilihan": {
+      "a": "File disalin ke clipboard dan file asli tetap ada.",
+      "b": "File dipindahkan ke clipboard dan file asli akan dihapus setelah ditempel (paste).",
+      "c": "File langsung dihapus secara permanen.",
+      "d": "File disalin ke Recycle Bin."
+    },
+    "jawaban_benar": "b",
+    "penjelasan": "Berbeda dengan 'copy', 'cut' adalah operasi pemindahan. File asli baru akan hilang dari lokasi awalnya setelah kamu menempelkannya di lokasi baru.",
+    "tingkat_kesulitan": 1
+  },
+  {
+    "nomor": "INF114",
+    "soal": "Sebuah tautan (link) pada halaman web yang mengarahkan ke halaman lain atau sumber daya lain disebut...",
+    "pilihan": {
+      "a": "URL",
+      "b": "Bookmark",
+      "c": "Hyperlink",
+      "d": "Tab"
+    },
+    "jawaban_benar": "c",
+    "penjelasan": "Hyperlink adalah elemen fundamental dari World Wide Web yang memungkinkan navigasi non-linear antar dokumen.",
+    "tingkat_kesulitan": 1
+  },
+  {
+    "nomor": "INF115",
+    "soal": "Jenis malware yang menyamar sebagai perangkat lunak yang sah untuk menipu pengguna agar menginstalnya adalah...",
+    "pilihan": {
+      "a": "Worm",
+      "b": "Spyware",
+      "c": "Trojan Horse",
+      "d": "Ransomware"
+    },
+    "jawaban_benar": "c",
+    "penjelasan": "Seperti Kuda Troya dalam mitologi Yunani, Trojan Horse adalah program jahat yang bersembunyi di dalam program yang tampaknya berguna.",
+    "tingkat_kesulitan": 3
+  },
+  {
+    "nomor": "INF116",
+    "soal": "Area penyimpanan sementara yang berkecepatan sangat tinggi di dalam CPU disebut...",
+    "pilihan": {
+      "a": "RAM",
+      "b": "Hard Drive",
+      "c": "Cache CPU",
+      "d": "ROM"
+    },
+    "jawaban_benar": "c",
+    "penjelasan": "Cache CPU menyimpan data dan instruksi yang sering digunakan agar CPU dapat mengaksesnya lebih cepat daripada mengambil dari RAM.",
+    "tingkat_kesulitan": 3
+  },
+  {
+    "nomor": "INF117",
+    "soal": "Fitur pada sistem operasi modern yang memungkinkan pengguna untuk menjalankan beberapa aplikasi secara bersamaan disebut...",
+    "pilihan": {
+      "a": "Multitasking",
+      "b": "Multiprocessing",
+      "c": "Multithreading",
+      "d": "Virtualization"
+    },
+    "jawaban_benar": "a",
+    "penjelasan": "Multitasking memungkinkan kamu untuk beralih antara browser web, pengolah kata, dan aplikasi lain seolah-olah semuanya berjalan pada saat yang sama.",
+    "tingkat_kesulitan": 2
+  },
+  {
+    "nomor": "INF118",
+    "soal": "Mana dari berikut ini yang merupakan contoh perangkat penyimpanan optik?",
+    "pilihan": {
+      "a": "Hard Disk Drive (HDD)",
+      "b": "Solid State Drive (SSD)",
+      "c": "USB Flash Drive",
+      "d": "DVD-ROM"
+    },
+    "jawaban_benar": "d",
+    "penjelasan": "Perangkat penyimpanan optik seperti CD, DVD, dan Blu-ray menggunakan laser untuk membaca dan menulis data.",
+    "tingkat_kesulitan": 1
+  },
+  {
+    "nomor": "INF119",
+    "soal": "Untuk membuat teks menjadi tebal (bold), pintasan keyboard yang umum digunakan adalah...",
+    "pilihan": {
+      "a": "Ctrl + I",
+      "b": "Ctrl + B",
+      "c": "Ctrl + U",
+      "d": "Ctrl + T"
+    },
+    "jawaban_benar": "b",
+    "penjelasan": "Ctrl + B adalah pintasan universal untuk memformat teks yang dipilih menjadi tebal.",
+    "tingkat_kesulitan": 1
+  },
+  {
+    "nomor": "INF120",
+    "soal": "Proses verifikasi identitas pengguna sebelum memberikan akses ke sistem atau data disebut...",
+    "pilihan": {
+      "a": "Enkripsi",
+      "b": "Otorisasi",
+      "c": "Autentikasi",
+      "d": "Akuntansi"
+    },
+    "jawaban_benar": "c",
+    "penjelasan": "Autentikasi menjawab pertanyaan 'Siapakah kamu?', biasanya melalui kata sandi, sidik jari, atau metode verifikasi lainnya.",
+    "tingkat_kesulitan": 2
+  },
+  {
+    "nomor": "INF121",
+    "soal": "Pada Excel, sel A1 berisi angka 10. Sel B1 berisi angka 20. Apa hasil dari formula =A1+B1*2?",
+    "pilihan": {
+      "a": "60",
+      "b": "50",
+      "c": "32",
+      "d": "Error"
+    },
+    "jawaban_benar": "b",
+    "penjelasan": "Sesuai aturan urutan operasi matematika (BODMAS/PEMDAS), perkalian (B1*2 = 40) dilakukan sebelum penjumlahan (10 + 40 = 50).",
+    "tingkat_kesulitan": 3
+  },
+  {
+    "nomor": "INF122",
+    "soal": "Sebuah gambar yang terdiri dari titik-titik kecil (piksel) disebut gambar...",
+    "pilihan": {
+      "a": "Vektor",
+      "b": "Raster",
+      "c": "3D",
+      "d": "Animasi"
+    },
+    "jawaban_benar": "b",
+    "penjelasan": "Gambar raster (atau bitmap) seperti foto (JPEG, PNG) akan menjadi pecah atau buram jika diperbesar melebihi resolusi aslinya.",
+    "tingkat_kesulitan": 2
+  },
+  {
+    "nomor": "INF123",
+    "soal": "Sebuah gambar yang dibuat berdasarkan formula matematis (garis dan kurva) dan dapat diperbesar tanpa kehilangan kualitas disebut gambar...",
+    "pilihan": {
+      "a": "Vektor",
+      "b": "Raster",
+      "c": "Bitmap",
+      "d": "Fotografi"
+    },
+    "jawaban_benar": "a",
+    "penjelasan": "Gambar vektor (seperti logo yang dibuat di Adobe Illustrator atau CorelDRAW) ideal untuk desain yang perlu diskalakan ke berbagai ukuran.",
+    "tingkat_kesulitan": 2
+  },
+  {
+    "nomor": "INF124",
+    "soal": "Membuat salinan cadangan dari file-file penting untuk melindunginya dari kehilangan data disebut...",
+    "pilihan": {
+      "a": "Mengarsipkan (Archiving)",
+      "b": "Membuat cadangan (Backing up)",
+      "c": "Mengompres (Compressing)",
+      "d": "Mengenkripsi (Encrypting)"
+    },
+    "jawaban_benar": "b",
+    "penjelasan": "Melakukan backup secara teratur adalah praktik penting untuk mencegah kehilangan data akibat kegagalan perangkat keras, malware, atau kesalahan manusia.",
+    "tingkat_kesulitan": 1
+  },
+  {
+    "nomor": "INF125",
+    "soal": "Dalam aplikasi pengolah kata, area di bagian atas dan bawah setiap halaman yang dapat berisi informasi seperti nomor halaman atau judul dokumen disebut...",
+    "pilihan": {
+      "a": "Margin dan Gutter",
+      "b": "Header dan Footer",
+      "c": "Toolbar dan Ribbon",
+      "d": "Scrollbar dan Status bar"
+    },
+    "jawaban_benar": "b",
+    "penjelasan": "Header berada di bagian atas halaman, dan Footer berada di bagian bawah, dan kontennya akan terulang di setiap halaman.",
+    "tingkat_kesulitan": 1
+  },
+  {
+    "nomor": "INF126",
+    "soal": "Jenis memori komputer yang bersifat 'volatile', artinya isinya akan hilang saat komputer dimatikan, adalah...",
+    "pilihan": {
+      "a": "SSD",
+      "b": "Hard Drive",
+      "c": "ROM",
+      "d": "RAM"
+    },
+    "jawaban_benar": "d",
+    "penjelasan": "RAM (Random Access Memory) adalah memori kerja utama komputer, digunakan untuk menyimpan data yang sedang aktif diproses oleh aplikasi.",
+    "tingkat_kesulitan": 2
+  },
+  {
+    "nomor": "INF127",
+    "soal": "Kecepatan koneksi internet sering diukur dalam satuan...",
+    "pilihan": {
+      "a": "Gigahertz (GHz)",
+      "b": "Gigabyte (GB)",
+      "c": "Megabits per second (Mbps)",
+      "d": "Pixels per inch (PPI)"
+    },
+    "jawaban_benar": "c",
+    "penjelasan": "Mbps menunjukkan berapa juta bit data yang dapat ditransfer setiap detiknya, mengindikasikan kecepatan unduh dan unggah.",
+    "tingkat_kesulitan": 2
+  },
+  {
+    "nomor": "INF128",
+    "soal": "Protokol standar yang digunakan untuk mengirim email adalah...",
+    "pilihan": {
+      "a": "HTTP",
+      "b": "FTP",
+      "c": "SMTP",
+      "d": "TCP/IP"
+    },
+    "jawaban_benar": "c",
+    "penjelasan": "SMTP (Simple Mail Transfer Protocol) adalah protokol yang digunakan oleh server email untuk mengirim pesan dari pengirim ke penerima.",
+    "tingkat_kesulitan": 3
+  },
+  {
+    "nomor": "INF129",
+    "soal": "Sistem operasi open-source yang menjadi dasar dari Android adalah...",
+    "pilihan": {
+      "a": "Windows",
+      "b": "macOS",
+      "c": "Linux",
+      "d": "iOS"
+    },
+    "jawaban_benar": "c",
+    "penjelasan": "Android dibangun di atas kernel Linux, yang merupakan inti dari sistem operasi tersebut, dimodifikasi oleh Google untuk perangkat seluler.",
+    "tingkat_kesulitan": 3
+  },
+  {
+    "nomor": "INF130",
+    "soal": "Mengurangi ukuran file dengan menghapus data yang redundan atau tidak perlu disebut proses...",
+    "pilihan": {
+      "a": "Kompresi",
+      "b": "Ekstraksi",
+      "c": "Enkripsi",
+      "d": "Fragmentasi"
+    },
+    "jawaban_benar": "a",
+    "penjelasan": "Kompresi (misalnya menjadi file .zip atau .rar) berguna untuk menghemat ruang penyimpanan dan mempercepat transfer file melalui internet.",
+    "tingkat_kesulitan": 2
+  },
+  {
+    "nomor": "INF131",
+    "soal": "Apa kepanjangan dari 'URL'?",
+    "pilihan": {
+      "a": "Universal Resource Link",
+      "b": "Uniform Resource Locator",
+      "c": "Unified Resource Link",
+      "d": "Universal Reference Locator"
+    },
+    "jawaban_benar": "b",
+    "penjelasan": "URL adalah alamat spesifik dari sebuah sumber daya (seperti halaman web atau gambar) di internet.",
+    "tingkat_kesulitan": 2
+  },
+  {
+    "nomor": "INF132",
+    "soal": "Saat kamu mengetik di aplikasi pengolah kata, garis vertikal yang berkedip-kedip yang menunjukkan titik penyisipan teks disebut...",
+    "pilihan": {
+      "a": "Pointer",
+      "b": "Kursor",
+      "c": "Ikon",
+      "d": "Selektor"
+    },
+    "jawaban_benar": "b",
+    "penjelasan": "Kursor (atau insertion point) menunjukkan di mana karakter berikutnya yang kamu ketik akan muncul.",
+    "tingkat_kesulitan": 1
+  },
+  {
+    "nomor": "INF133",
+    "soal": "Pada Excel, untuk menjumlahkan nilai di sel A1 hingga A5, formula yang benar adalah...",
+    "pilihan": {
+      "a": "=SUM(A1-A5)",
+      "b": "=SUM(A1:A5)",
+      "c": "=SUM(A1,A5)",
+      "d": "=SUM(A1 to A5)"
+    },
+    "jawaban_benar": "b",
+    "penjelasan": "Tanda titik dua (:) digunakan untuk mendefinisikan sebuah rentang (range) sel, dari sel awal hingga sel akhir.",
+    "tingkat_kesulitan": 1
+  },
+  {
+    "nomor": "INF134",
+    "soal": "Bagian dari browser yang menampilkan alamat web dari halaman yang sedang kamu kunjungi adalah...",
+    "pilihan": {
+      "a": "Tab bar",
+      "b": "Status bar",
+      "c": "Address bar (Bilah Alamat)",
+      "d": "Search bar (Bilah Pencarian)"
+    },
+    "jawaban_benar": "c",
+    "penjelasan": "Address bar adalah tempat kamu mengetikkan URL untuk mengunjungi situs web secara langsung.",
+    "tingkat_kesulitan": 1
+  },
+  {
+    "nomor": "INF135",
+    "soal": "Program atau perangkat keras yang memungkinkan komputer untuk terhubung ke jaringan disebut...",
+    "pilihan": {
+      "a": "Antarmuka Jaringan (Network Interface)",
+      "b": "Sistem Operasi",
+      "c": "Prosesor",
+      "d": "Port USB"
+    },
+    "jawaban_benar": "a",
+    "penjelasan": "Antarmuka jaringan bisa berupa kartu LAN (untuk koneksi kabel) atau adapter Wi-Fi (untuk koneksi nirkabel).",
+    "tingkat_kesulitan": 2
+  },
+  {
+    "nomor": "INF136",
+    "soal": "Satu set aturan yang mengatur bagaimana data dikomunikasikan melalui jaringan disebut...",
+    "pilihan": {
+      "a": "Algoritma",
+      "b": "Topologi",
+      "c": "Protokol",
+      "d": "Arsitektur"
+    },
+    "jawaban_benar": "c",
+    "penjelasan": "Protokol, seperti TCP/IP atau HTTP, memastikan bahwa perangkat yang berbeda dapat berkomunikasi satu sama lain dengan cara yang terstandarisasi.",
+    "tingkat_kesulitan": 2
+  },
+  {
+    "nomor": "INF137",
+    "soal": "Jenis malware yang mengenkripsi file korban dan menuntut pembayaran untuk mendekripsinya adalah...",
+    "pilihan": {
+      "a": "Spyware",
+      "b": "Adware",
+      "c": "Worm",
+      "d": "Ransomware"
+    },
+    "jawaban_benar": "d",
+    "penjelasan": "Ransomware adalah salah satu ancaman siber yang paling merusak, karena dapat membuat semua data korban tidak dapat diakses.",
+    "tingkat_kesulitan": 2
+  },
+  {
+    "nomor": "INF138",
+    "soal": "Dalam Excel, untuk mengunci baris pertama agar tetap terlihat saat menggulir ke bawah, kamu harus menggunakan fitur...",
+    "pilihan": {
+      "a": "Filter",
+      "b": "Sort",
+      "c": "Freeze Panes",
+      "d": "Merge Cells"
+    },
+    "jawaban_benar": "c",
+    "penjelasan": "Freeze Panes (Bekukan Panel) sangat berguna saat bekerja dengan dataset besar agar judul kolom atau baris selalu terlihat.",
+    "tingkat_kesulitan": 2
+  },
+  {
+    "nomor": "INF139",
+    "soal": "Sistem komputer yang dirancang untuk melakukan satu tugas spesifik dalam sistem yang lebih besar (misalnya dalam mobil atau microwave) disebut...",
+    "pilihan": {
+      "a": "Supercomputer",
+      "b": "Mainframe",
+      "c": "Embedded System",
+      "d": "Server"
+    },
+    "jawaban_benar": "c",
+    "penjelasan": "Embedded System (Sistem Tertanam) ada di mana-mana dalam perangkat sehari-hari dan dirancang untuk fungsi yang sangat spesifik.",
+    "tingkat_kesulitan": 3
+  },
+  {
+    "nomor": "INF140",
+    "soal": "Menu di aplikasi pengolah kata yang berisi perintah-perintah seperti 'Save', 'Open', dan 'Print' biasanya adalah menu...",
+    "pilihan": {
+      "a": "Edit",
+      "b": "View",
+      "c": "File",
+      "d": "Insert"
+    },
+    "jawaban_benar": "c",
+    "penjelasan": "Menu 'File' menangani operasi yang berkaitan dengan dokumen secara keseluruhan, seperti menyimpan, membuka, mencetak, dan mengekspor.",
+    "tingkat_kesulitan": 1
+  },
+  {
+    "nomor": "INF141",
+    "soal": "Apa istilah untuk versi awal dari sebuah program perangkat lunak yang dirilis untuk pengujian sebelum rilis resmi?",
+    "pilihan": {
+      "a": "Final Version",
+      "b": "Beta Version",
+      "c": "Alpha Version",
+      "d": "Gold Version"
+    },
+    "jawaban_benar": "b",
+    "penjelasan": "Versi Beta dirilis ke sekelompok pengguna untuk menemukan bug dan mendapatkan umpan balik sebelum produk diluncurkan secara luas.",
+    "tingkat_kesulitan": 2
+  },
+  {
+    "nomor": "INF142",
+    "soal": "Apa yang dimaksud dengan 'Open-source software'?",
+    "pilihan": {
+      "a": "Perangkat lunak yang selalu gratis.",
+      "b": "Perangkat lunak yang kode sumbernya tersedia untuk umum untuk dilihat, dimodifikasi, dan didistribusikan.",
+      "c": "Perangkat lunak yang hanya berjalan di sistem operasi open-source.",
+      "d": "Perangkat lunak yang dapat diakses melalui browser web."
+    },
+    "jawaban_benar": "b",
+    "penjelasan": "Contoh perangkat lunak open-source yang terkenal adalah sistem operasi Linux, browser web Firefox, dan aplikasi perkantoran LibreOffice.",
+    "tingkat_kesulitan": 2
+  },
+  {
+    "nomor": "INF143",
+    "soal": "Apa fungsi utama dari 'Recycle Bin' atau 'Trash' pada sistem operasi?",
+    "pilihan": {
+      "a": "Menghapus file secara permanen.",
+      "b": "Menyimpan file yang diunduh.",
+      "c": "Tempat penyimpanan sementara untuk file yang dihapus, memungkinkan pemulihan.",
+      "d": "Mengompres file agar lebih kecil."
+    },
+    "jawaban_benar": "c",
+    "penjelasan": "Recycle Bin bertindak sebagai jaring pengaman, memungkinkan kamu untuk mengembalikan file yang tidak sengaja terhapus.",
+    "tingkat_kesulitan": 1
+  },
+  {
+    "nomor": "INF144",
+    "soal": "Dalam Excel, apa fungsi dari fitur 'Filter'?",
+    "pilihan": {
+      "a": "Mengurutkan data dari A ke Z.",
+      "b": "Menyembunyikan baris yang tidak memenuhi kriteria tertentu.",
+      "c": "Menjumlahkan semua data dalam kolom.",
+      "d": "Menggabungkan beberapa sel menjadi satu."
+    },
+    "jawaban_benar": "b",
+    "penjelasan": "Filter memungkinkan kamu untuk dengan cepat menampilkan hanya data yang relevan dalam sebuah dataset besar berdasarkan kondisi yang kamu tentukan.",
+    "tingkat_kesulitan": 2
+  },
+  {
+    "nomor": "INF145",
+    "soal": "Tindakan menggunakan karya orang lain dan mengklaimnya sebagai milik sendiri tanpa memberikan kredit disebut...",
+    "pilihan": {
+      "a": "Copyright",
+      "b": "Fair Use",
+      "c": "Plagiarisme",
+      "d": "Open Source"
+    },
+    "jawaban_benar": "c",
+    "penjelasan": "Plagiarisme adalah pelanggaran etika akademik dan profesional yang serius.",
+    "tingkat_kesulitan": 1
+  },
+  {
+    "nomor": "INF146",
+    "soal": "Pintasan keyboard untuk menyalin (copy) teks atau file yang dipilih adalah...",
+    "pilihan": {
+      "a": "Ctrl + X",
+      "b": "Ctrl + C",
+      "c": "Ctrl + V",
+      "d": "Ctrl + Z"
+    },
+    "jawaban_benar": "b",
+    "penjelasan": "Ctrl + C adalah salah satu pintasan keyboard yang paling umum digunakan, menyalin item yang dipilih ke clipboard.",
+    "tingkat_kesulitan": 1
+  },
+  {
+    "nomor": "INF147",
+    "soal": "Pintasan keyboard untuk menempel (paste) item dari clipboard adalah...",
+    "pilihan": {
+      "a": "Ctrl + X",
+      "b": "Ctrl + C",
+      "c": "Ctrl + V",
+      "d": "Ctrl + P"
+    },
+    "jawaban_benar": "c",
+    "penjelasan": "Ctrl + V digunakan untuk menempelkan konten yang sebelumnya telah disalin (copy) atau dipotong (cut).",
+    "tingkat_kesulitan": 1
+  },
+  {
+    "nomor": "INF148",
+    "soal": "Apa kepanjangan dari 'Wi-Fi'?",
+    "pilihan": {
+      "a": "Wireless Fidelity",
+      "b": "Wireless Firewall",
+      "c": "Wired Fidelity",
+      "d": "Wireless Field"
+    },
+    "jawaban_benar": "a",
+    "penjelasan": "Meskipun 'Wireless Fidelity' adalah istilah yang populer, Wi-Fi sebenarnya adalah nama merek dagang untuk teknologi jaringan nirkabel berdasarkan standar IEEE 802.11.",
+    "tingkat_kesulitan": 2
+  },
+  {
+    "nomor": "INF149",
+    "soal": "Jaringan komputer yang mencakup area geografis yang sangat luas, seperti negara atau benua, disebut...",
+    "pilihan": {
+      "a": "LAN (Local Area Network)",
+      "b": "WAN (Wide Area Network)",
+      "c": "PAN (Personal Area Network)",
+      "d": "MAN (Metropolitan Area Network)"
+    },
+    "jawaban_benar": "b",
+    "penjelasan": "Internet adalah contoh terbesar dari WAN, yang menghubungkan jutaan jaringan yang lebih kecil di seluruh dunia.",
+    "tingkat_kesulitan": 2
+  },
+  {
+    "nomor": "INF150",
+    "soal": "Teknologi yang memungkinkan perangkat untuk terhubung dan bertukar data tanpa kabel dalam jarak dekat, seperti menghubungkan mouse nirkabel ke laptop, adalah...",
+    "pilihan": {
+      "a": "Wi-Fi",
+      "b": "Ethernet",
+      "c": "Bluetooth",
+      "d": "NFC"
+    },
+    "jawaban_benar": "c",
+    "penjelasan": "Bluetooth adalah standar komunikasi nirkabel jarak pendek yang ideal untuk menghubungkan perangkat periferal seperti headphone, keyboard, dan speaker.",
+    "tingkat_kesulitan": 1
+  },
+  {
+    "nomor": "INF151",
+    "soal": "Apa istilah untuk antarmuka pengguna grafis yang menggunakan ikon, jendela, dan menu untuk berinteraksi dengan komputer?",
+    "pilihan": {
+      "a": "CLI (Command-Line Interface)",
+      "b": "API (Application Programming Interface)",
+      "c": "GUI (Graphical User Interface)",
+      "d": "OS (Operating System)"
+    },
+    "jawaban_benar": "c",
+    "penjelasan": "GUI, yang dipopulerkan oleh Apple Macintosh dan kemudian Microsoft Windows, membuat komputer jauh lebih mudah digunakan bagi non-teknisi dibandingkan dengan antarmuka baris perintah.",
+    "tingkat_kesulitan": 2
+  }
+]
