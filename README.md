@@ -1,7 +1,7 @@
 # 🤖 Telegram Quiz Bot Interaktif
 
 <p align="center">
-    <img src="https://imgur.com/a/FozpxRy" alt="Contoh Tampilan Kuis" width="400"/>
+    <img src="https://i.imgur.com/W9FgnIQ.png" alt="Contoh Tampilan Kuis" width="400"/>
 </p>
 <p align="center">
     <em>Bot kuis Telegram modern dengan verifikasi nama, sistem peringkat adaptif, leaderboard, dan laporan statistik otomatis.</em>
